@@ -8,8 +8,8 @@ import csv
 
 #url = input("Enter URL: ")
 urls = ["https://stepfwd.today/", "https://stepfwd.today/angel-investors-workshop.html", "https://stepfwd.today/accelerator.html", "https://stepfwd.today/diversityreport.html", "https://stepfwd.today/alumni.html"]
-#visits = int(input("How much visitor: "))
-visits = 20
+visits = int(input("How much visitor: "))
+#visits = 20
 
 options = Options()
 ua = UserAgent()
